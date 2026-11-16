@@ -21,7 +21,8 @@ Obsidian で作業するとき、タイマーは別アプリ、BGM はブラウ�
 
 https://github.com/chacha260/obsidian-zen-zone
 
-【パネル全体のスクリーンショット】
+<img width="485" height="829" alt="image" src="https://github.com/user-attachments/assets/c0f2a695-1f45-4482-bed7-02d482dabec9" />
+
 
 できることは 3 つです。
 
