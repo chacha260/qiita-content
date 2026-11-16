@@ -21,8 +21,7 @@ Obsidian で作業するとき、タイマーは別アプリ、BGM はブラウ�
 
 https://github.com/chacha260/obsidian-zen-zone
 
-<img width="485" height="829" alt="image" src="https://github.com/user-attachments/assets/c0f2a695-1f45-4482-bed7-02d482dabec9" />
-
+<img width="484" height="814" alt="image" src="https://github.com/user-attachments/assets/049b80cf-877c-4550-b9de-d84cebd79078" />
 
 できることは 3 つです。
 
@@ -52,7 +51,7 @@ Obsidian 1.13.0 以降が必要です。デスクトップとモバイルの両�
 
 ## タイマー
 
-【タイマー部分のスクリーンショット】
+<img width="466" height="365" alt="image" src="https://github.com/user-attachments/assets/54596a69-db95-4e2b-883d-8fba554e385d" />
 
 「集中を開始」を押すと、集中 → 小休憩 → 集中 → … と進み、最後のサイクルは大休憩で終わります。
 
@@ -69,7 +68,8 @@ Obsidian 1.13.0 以降が必要です。デスクトップとモバイルの両�
 
 ## BGM
 
-【音楽部分のスクリーンショット】
+<img width="458" height="183" alt="image" src="https://github.com/user-attachments/assets/29e97a37-fa89-49be-b514-b29d87c82009" />
+
 
 トラックには 2 種類を登録できます。
 
@@ -105,7 +105,7 @@ Obsidian 1.13.0 以降が必要です。デスクトップとモバイルの両�
 
 ## タスク
 
-【タスク部分のスクリーンショット】
+<img width="473" height="261" alt="image" src="https://github.com/user-attachments/assets/6e295aad-8197-47f3-a180-cb33b024abbe" />
 
 パネルの上に「現在のタスク」がひとつ表示され、その下にバックログが並びます。
 
